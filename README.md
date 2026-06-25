@@ -31,7 +31,7 @@
 1. Установить зависимости:
 
 ```bash
-pip install pandas matplotlib
+pip install -r requirements.txt
 ```
 
 2. Сгенерировать данные:
