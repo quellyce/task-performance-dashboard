@@ -54,3 +54,21 @@ python analysis.py
 * обработкой данных;
 * построением графиков;
 * использованием Git и GitHub.
+
+## Dashboard Preview
+
+### Task Status Distribution
+
+![Task Status Distribution](screenshots/task_status_distribution.png)
+
+### Tasks by Department
+
+![Tasks by Department](screenshots/tasks_by_department.png)
+
+### Task Status by Department
+
+![Task Status by Department](screenshots/task_status_by_department.png)
+
+### Top Employees by Number of Tasks
+
+![Top Employees by Number of Tasks](screenshots/top_employees_by_tasks.png)
